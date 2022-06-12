@@ -1,5 +1,5 @@
 ### Hey there, I'm Tony Ndereva Maluki 👋
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=g-69westside)
 
 
 [![](https://raw.githubusercontent.com/G-69westside/G-69westside/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
